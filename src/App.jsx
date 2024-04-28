@@ -1,4 +1,3 @@
-// App.js
 import { useState, useEffect } from 'react';
 import ContactForm from './components/ContactForm';
 import ContactList from './components/ContactList';
